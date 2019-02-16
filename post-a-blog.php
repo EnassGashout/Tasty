@@ -77,7 +77,7 @@ include 'includes/connect.php';
             $imageName = rand(0, 100000) . "_" . $image['name'];
             move_uploaded_file($image['tmp_name'], "images/blog/" . $imageName);
           } else {
-            $imageName = "default.jpeg";
+            $imageName = "defult.jpg";
           } 
           if ($isError == false && isset($_SESSION['userid']) )
         {

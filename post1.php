@@ -23,6 +23,35 @@
     <div class="preloader"></div>
     <!-- /.preloader -->
     <?php include "includes/header.php" ;?>
+<<<<<<< HEAD
+=======
+    <!-- blog side -->
+    <section class="blog-side sp-seven blog-style-one standard-post sec-pad">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-9 col-sm-12 col-xs-12 content-side">
+                    <div class="blog-details-content">
+                        <figure><img src="images\blog\defult.jpg" alt=""></figure>
+                        <div class="blog-content-one sp-three">
+                            <div class="top-content centred">
+                                <div class="meta-text">Travel</div>
+                                <div class="title"><h3>Flying away on a wing and a prayer</h3></div>
+                                <div class="date">on November 16, 2018 &nbsp;&nbsp;<i class="flaticon-circle"></i>&nbsp;&nbsp;By Lazord El-Fizga</div>
+                            </div>
+                            <div class="text-style-one">
+                                <div class="bold-text">T</div>
+                                <p>The need no welfare states starship enterprise the Brady Bunch that's the way we all be came the Brady Bunch these days are all Happy and Free these days you wanna be where everybody knows your name fish do not fry in the kitchen and beans do not burn on the grill took a whole lotta trying just to get upset
+                                </p>
+                            </div>
+                            <div class="text">
+                                <p>need no welfare states starship enterprise the Brady Bunch that's the way we all be came the Brady Bunch these to days are all Happy and Free these days you wanna be where everybody knows your name fish do not fry in the artist kitchen and beans do not burn on the grill took a whole lotta trying just to get up that hill. </p>
+                                <p>There are all Happy and Free these days you wanna be where everybody knows your name fish do not fry in the kitchen and beans do not burn on the grill took a whole lotta trying just to get up that hill.</p>
+                            </div>
+                            <div class="about-content-two">
+                                <div class="title-text">Life support systems return</div>
+                                <div class="text">
+                                    <p>That is the way we all be came the Brady Bunch these to days are all Happy and Free these days you wanna be where everybody knows your name fish do not fry in the artist kitchen and beans do not burn on the grill took a whole lotta trying just to get up that hill.</p>
+>>>>>>> bbf2a57e617efc7ec4e77a9009c9afc61ef3462c
 
 <?php if(isset($_GET['id'])){
     $id= $_GET['id'];
