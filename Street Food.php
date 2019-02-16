@@ -34,7 +34,7 @@
                         <div class="content-box overlay-item">
                             <div class="inner-box">
                                 <div class="image-box">
-                                    <figure class="image"><img src="images\StreetFood\1.jpg" alt="" width="200" height="400"></figure>
+                                    <figure class="image"><img src="images\StreetFood\6.jpg" alt="" width="200" height="400"></figure>
                                     <div class="overlay-box">
                                         <div class="overlay-inner">
                                             <div class="content">
