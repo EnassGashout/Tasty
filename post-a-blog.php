@@ -35,9 +35,6 @@ include 'includes/connect.php';
     position: absolute;
     bottom: 9px;
     right: 0; }
-.img-box{
-    text-align: center;
-}
 </style>
 </head>
 <!-- page wrapper -->
@@ -117,7 +114,6 @@ include 'includes/connect.php';
     ?>
 
     <section class="contact-section sp-eight">
-    <figure class="img-box"><img src="images\home\996.png" alt=""></figure>
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 content-side">

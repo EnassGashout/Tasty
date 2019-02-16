@@ -23,8 +23,6 @@
     <div class="preloader"></div>
     <!-- /.preloader -->
     <?php include "includes/header.php" ;?>
-<<<<<<< HEAD
-=======
     <!-- blog side -->
     <section class="blog-side sp-seven blog-style-one standard-post sec-pad">
         <div class="container">
@@ -51,49 +49,24 @@
                                 <div class="title-text">Life support systems return</div>
                                 <div class="text">
                                     <p>That is the way we all be came the Brady Bunch these to days are all Happy and Free these days you wanna be where everybody knows your name fish do not fry in the artist kitchen and beans do not burn on the grill took a whole lotta trying just to get up that hill.</p>
->>>>>>> bbf2a57e617efc7ec4e77a9009c9afc61ef3462c
 
-<?php if(isset($_GET['id'])){
-    $id= $_GET['id'];
-    $sql = " SELECT blogs.blogIMG , catName , blogs.blogTitle , blogs.addDate , FullName , blogs.blogDesc from blogs
-    INNER JOIN users ON blogs.userID = users.ID
-    INNER JOIN categories ON blogs.specID = categories.ID where blogs.ID = ? " ;
-    global $con ;
-    $query = $con->prepare($sql);
-    $query->execute(array($id));
-    $result = $query->fetch();
-
-
- ?>
-<!-- blog side -->
-<section class="blog-side sp-seven blog-style-one standard-post sec-pad">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-9 col-sm-12 col-xs-12 content-side">
-                <div class="blog-details-content">
-                    <figure><img src="images\blog\<?php echo $result['blogIMG']; ?>" alt=""></figure>
-                    <div class="blog-content-one sp-three">
-                        <div class="top-content centred">
-                            <div class="meta-text"><?php echo $result['catName'] ; ?></div>
-                            <div class="title"><h3><?php echo $result['blogTitle'];?></h3></div>
-                            <div class="date"><?php echo $result['addDate'] ?>&nbsp;&nbsp;<i class="flaticon-circle"></i>&nbsp;&nbsp; <?php echo $result['FullName'] ; ?></div>
-                        </div>
-                        <div class="text-style-one">
-                            
-                            <p> <?php echo $result['blogDesc'] ;?>
-                            </p>
-                        </div>
-                        
-                        <div class="about-content-two">
-                        </div>
-                        <hr>
-                        <ul class=" centred">
-                            <li><a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i>&nbsp; 37</a> &nbsp; <i class="flaticon-circle"></i> &nbsp; <a href="#"><i class="fa fa-heart-o" aria-hidden="true"></i>&nbsp; 20</a></li>
+                                    <p>The need no welfare states starship enterprise the Brady Bunch that's the way we all be came the Brady Bunch these days are all Happy and Free these days you wanna be where everybody knows your name fish do not fry in the kitchen and beans do not burn on the grill took a whole lotta trying just to get upset.</p>
+                                    <p>
+                                    There are all Happy and Free these days you wanna be where everybody knows your name fish do not fry in the kitchen and beans do not burn on the grill took a whole lotta trying just to get up that hill.</p>
+                                </div>
+                            </div>
                             <hr>
-                        </ul>
-                        
-                    </div>
-<?php } ?>
+                            <ul class=" centred">
+                                <li><a href="#"><i class="fa fa-comments-o" aria-hidden="true"></i>&nbsp; 37</a> &nbsp; <i class="flaticon-circle"></i> &nbsp; <a href="#"><i class="fa fa-heart-o" aria-hidden="true"></i>&nbsp; 20</a></li>
+                                <hr>
+                            </ul>
+                            <div class="single-authore">
+                                    <div class="authore-img"><figure><img src="images\news\authore.jpeg" alt=""></figure></div>
+                                    <div class="authore-title">Lazord El-Fizga - <span>Author</span></div>
+                                    <div class="text"><p>The days are all Happy and Free these days you wanna be where everybody knows your name fish do kitchen and beans do not burn on the grill took a whole lotta trying just to get up that wet floor.</p></div>
+                            </div>
+                        </div>
+                       
                         <div class="comment-area">
                             <div class="title-text-two" style="border: #f3a28b solid 1px ; padding: 10px"> COMMENTS</div>
                             <div class="single-comment">
