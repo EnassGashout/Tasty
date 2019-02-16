@@ -35,7 +35,7 @@
                         <div class="content-box overlay-item">
                             <div class="inner-box">
                                 <div class="image-box">
-                                    <figure class="image"><img src="images\Resturant\1.jpeg" alt=""></figure>
+                                    <figure class="image"><img src="images\Resturant\default.jpg" alt=""></figure>
                                     <div class="overlay-box">
                                         <div class="overlay-inner">
                                             <div class="content">
@@ -48,13 +48,13 @@
                             <div class="blog-content-one sp-two">
                                 <div class="top-content centred">
                                     <div class="meta-text"><a href="#">Resturant</a></div>
-                                    <div class="title"><h3><a href="post1.php">The story of a lovely lady who was bringing</a></h3></div>
+                                    <div class="title"><h3><a href="post1.php">About Restaurant Food</a></h3></div>
                                     <div class="date"><span>On</span> JANUARY 19, 2018 &nbsp;&nbsp;<i class="flaticon-circle"></i>&nbsp;&nbsp;<span>By</span> PAUL JOHN HEYMAN</div>
                                 </div>
                                 <div class="text">
-                                    <p>The need no welfare states starship enterprise the Brady Bunch that's the way we all be came the Brady Bunch these days are all Happy and Free these days you wanna be where everybody knows your name fish do not fry in the kitchen and beans do not burn on the grill took a whole lotta trying just to get up that hill.</p>
+                                    <p>At Restaurant,Meals are generally served and eaten on the premises, but many restaurants also offer take-out and food delivery services, and some offer only take-out and delivery.</p>
 
-                                    <p>There are all Happy and Free these days you wanna be where everybody knows your name fish do not fry in the kitchen and beans do not burn on the grill took a whole lotta trying just to get up that hill.</p>
+                                    <p></p>
                                 </div>
 
                             </div>

@@ -13,7 +13,7 @@ include 'includes/connect.php';
 <!-- Stylesheets -->
 <link href="css\style.css" rel="stylesheet">
 <link href="css\responsive.css" rel="stylesheet">
-<link rel="icon" href="images\favicon.ico" type="image/x-icon">
+<link rel="icon" href="images\icon1.ico" type="image/x-icon">
 <link href="css\summernote.css" rel="stylesheet" />
 <style>
     .inputfile + label {
