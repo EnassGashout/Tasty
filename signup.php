@@ -61,12 +61,12 @@
 
 		<!-- STYLE CSS -->
         <link rel="stylesheet" href="css/stylesignup.css">
-        <link rel="icon" href="images\favicon.ico" type="image/x-icon">
+        <link rel="icon" href="images\icon1.ico" type="image/x-icon">
 	</head>
 
 	<body>
 
-		<div class="wrapper" style="background-image: url('images/bg-registration-form-1.jpg');">
+		<div class="wrapper" style="background-image: url('images/teg1.png');">
 			<div class="inner">
 
 				<form action="signup.php" method="POST" enctype="multipart/form-data">
