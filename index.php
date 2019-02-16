@@ -22,23 +22,15 @@
         <div class="container-fluid">
             <div class="two-column-carousel nav-style-one owl-dots-none">
                 <div class="single-item">
-                    <figure class="img-box"><img src="images\home\3.jpg" alt=""></figure>
+                    <figure class="img-box"><img src="images\home\89p.jpg" alt=""></figure>
                     <div class="inner-box">
-                        <div class="content blog-content-one">
-                            <div class="meta-text"><a href="#">Street Food</a></div>
-                            <div class="title"><h3><a href="post2.php">Took a whole lotta trying just to get up</a></h3></div>
-                            <div class="date"><span>On</span> JANUARY 07, 2018 &nbsp;&nbsp;<i class="flaticon-circle"></i>&nbsp;&nbsp;<span>By</span> PAUL JOHN HEYMAN</div>
-                        </div>
+                        
                     </div>
                 </div>
                 <div class="single-item">
-                    <figure class="img-box"><img src="images\home\15.jpg" alt=""></figure>
+                    <figure class="img-box"><img src="images\home\124.jpg" alt=""></figure>
                     <div class="inner-box">
-                        <div class="content blog-content-one">
-                            <div class="meta-text"><a href="#">Resturant Food</a></div>
-                            <div class="title"><h3><a href="post2.php">Star the professor and mary on gilligans</a></h3></div>
-                            <div class="date"><span>On</span>JANUARY 19, 2018 &nbsp;&nbsp;<i class="flaticon-circle"></i>&nbsp;&nbsp;<span>By</span> PAUL JOHN HEYMAN</div>
-                        </div>
+                        
                     </div>
                 </div>
             </div>
