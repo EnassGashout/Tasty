@@ -47,7 +47,7 @@
         <div class="logo-area">
             <div class="container">
                 <div class="logo-box">
-                    <a href="index.php"><figure><img src="images\logo\tasty1.jpg" alt="" width="400" height="150" ></figure></a>
+                    <a href="index.php"><figure><img src="images\logo\t1.jpg" alt=""  ></figure></a>
                 </div>
             </div>
         </div>
