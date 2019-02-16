@@ -34,7 +34,7 @@ Through their experiences.. </p>
                                         $results = $query->fetchAll();
                                         foreach($results as $result) { ?>
                                             <div class="single-post">
-                                            <div class="img-box"><a href="post1.php?id=<?php echo $result['ID']; ?>"><figure><img src="images\home\p1.jpeg" alt=""></figure></a></div>
+                                            <div class="img-box"><a href="post1.php?id=<?php echo $result['ID']; ?>"><figure><img src="images\home\icon1.jpg" alt=""></figure></a></div>
                                             <h6><a href="post1.php/blogId=<?php echo $result['ID']; ?>"> <?php
                                                         $title = ""; 
                                                             if(strlen($result['blogTitle']) > 27) {

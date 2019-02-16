@@ -34,7 +34,7 @@
                         <div class="content-box overlay-item">
                             <div class="inner-box">
                                 <div class="image-box">
-                                    <figure class="image"><img src="images\Street Food\1.jpeg" alt=""></figure>
+                                    <figure class="image"><img src="images\StreetFood\1.jpg" alt="" width="200" height="400"></figure>
                                     <div class="overlay-box">
                                         <div class="overlay-inner">
                                             <div class="content">
@@ -47,13 +47,13 @@
                             <div class="blog-content-one sp-two">
                                 <div class="top-content centred">
                                     <div class="meta-text"><a href="#">Street Food</a></div>
-                                    <div class="title"><h3><a href="post1.php">Flying away on a wing and a prayer</a></h3></div>
-                                    <div class="date"><span>On</span> August 19, 2018 &nbsp;&nbsp;<i class="flaticon-circle"></i>&nbsp;&nbsp;<span>By</span> PAUL JOHN HEYMAN</div>
+                                    <div class="title"><h3><a href="post1.php">About Street Food</a></h3></div>
+                                    <div class="date"><span>On</span> August 10, 2019 &nbsp;&nbsp;<i class="flaticon-circle"></i>&nbsp;&nbsp;<span>By</span> Enass Gashout</div>
                                 </div>
                                 <div class="text">
-                                    <p>The need no welfare states starship enterprise the Brady Bunch that's the way we all be came the Brady Bunch these days are all Happy and Free these days you wanna be where everybody knows your name fish do not fry in the kitchen and beans do not burn on the grill took a whole lotta trying just to get up that hill.</p>
+                                    <p>Street Food is a type of prepared food sold on the streets and other public places. It is usually cheaper food than one sold in restaurants and it can be sold from a kiosk, portable food booth, food cart or food truck. ... People sold ready-to-eat food since the earliest civilizations.</p>
 
-                                    <p>There are all Happy and Free these days you wanna be where everybody knows your name fish do not fry in the kitchen and beans do not burn on the grill took a whole lotta trying just to get up that hill.</p>
+                                   <p></p>
                                 </div>
                                 <ul class="meta-list centred">
                                 </ul>
