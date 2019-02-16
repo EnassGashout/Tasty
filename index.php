@@ -54,28 +54,28 @@
                     <div class="img-box"><a href="post2.php"><figure><img src="images\home\1.jpg" alt=""></figure></a></div>
                     <div class="lower-content">
                         <div class="meta-text"><a href="#">Street Food</a></div>
-                        <div class="title"><h6><a href="post2.php">Love Boat soon will be making another run</a></h6></div>
+                        <div class="title"><h6><a href="post2.php">one of the most tasty food</a></h6></div>
                     </div>
                 </div>
                 <div class="carousel-style-one">
                     <div class="img-box"><a href="post2.php"><figure><img src="images\home\2.jpg" alt=""></figure></a></div>
                     <div class="lower-content">
                         <div class="meta-text"><a href="#">Coffe Shop</a></div>
-                        <div class="title"><h6><a href="post2.php">Call him flipper flipper faster than lightning</a></h6></div>
+                        <div class="title"><h6><a href="post2.php">one of the most tasty food</a></h6></div>
                     </div>
                 </div>
                 <div class="carousel-style-one">
                     <div class="img-box"><a href="post2.php"><figure><img src="images\home\3.jpg" width="200px" height="200ps" alt=""></figure></a></div>
                     <div class="lower-content">
                         <div class="meta-text"><a href="#">Resturant Food</a></div>
-                        <div class="title"><h6><a href="post2.php">East side to a deluxe apartment in the sky</a></h6></div>
+                        <div class="title"><h6><a href="post2.php">one of the most tasty food</a></h6></div>
                     </div>
                 </div>
                 <div class="carousel-style-one">
                     <div class="img-box"><a href="post2.php"><figure><img src="images\home\4.jpg" alt=""></figure></a></div>
                     <div class="lower-content">
                         <div class="meta-text"><a href="#">Coffe Shop</a></div>
-                        <div class="title"><h6><a href="post2.php">A maximum security stockade to Los Angeles</a></h6></div>
+                        <div class="title"><h6><a href="post2.php">one of the most tasty food</a></h6></div>
                     </div>
                 </div>
             </div>
