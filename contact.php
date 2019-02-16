@@ -25,7 +25,7 @@
                 <div class="col-md-9 col-sm-12 col-xs-12 content-side">
                     <div class="blog-details-content">
                         <div class="contact-info">
-                            <figure><img src="images\home\contact.jpg" alt="" ></figure>
+                            <figure><img src="images\blog\defult.jpg" alt="" ></figure>
                             <div class="lower-content">
                                 <div class="title-top centred">
                                     <h3>Contact us</h3>
