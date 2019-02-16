@@ -12,7 +12,7 @@
 <!-- Stylesheets -->
 <link href="css\style.css" rel="stylesheet">
 <link href="css\responsive.css" rel="stylesheet">
-<link rel="icon" href="images\favicon.ico" type="image/x-icon">
+<link rel="icon" href="images\icon1.ico" type="image/x-icon">
 
 </head>
 
@@ -116,71 +116,11 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-3 col-sm-12 col-xs-12 sidebar-side">
-                        <div class="sidebar-content">
-                            <div class="sidebar-about centred">
-                                <div class="sidebar-title">ABOUT THE BLOG </div>
-                                <figure class="img-box"><img src="images\logo\logo2.png" alt=""></figure>
-                                <div class="name"><a href="about.php">Fashion Coma</a></div>
-                                <div class="text"><p>Fashion Coma is a Fashion and beauty blog where girls from all over the world can introduce their beauty and fashion tips but they can also write about music and travel experiences .</p></div>
-                                <ul class="social-link">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-vimeo"></i></a></li>
-                                </ul>
-                            </div>
-                            <div class="sidebar-post">
-                                <div class="sidebar-title">RECENT POST</div>
-                                <div class="single-post">
-                                    <div class="img-box"><a href="post1.php"><figure><img src="images\home\p1.jpeg" alt=""></figure></a></div>
-                                    <h6><a href="post1.php">Fleeing from the Cylon tyre</a></h6>
-                                    <div class="text">JULY 09, 2018</div>
-                                </div>
-                                <div class="single-post">
-                                    <div class="img-box"><a href="post1.php"><figure><img src="images\home\p2.jpeg" alt=""></figure></a></div>
-                                    <h6><a href="post1.php">Life support systems return</a></h6>
-                                    <div class="text">MAY 19, 2018</div>
-                                </div>
-                                <div class="single-post">
-                                    <div class="img-box"><a href="post1.php"><figure><img src="images\home\p3.jpeg" alt=""></figure></a></div>
-                                    <h6><a href="post1.php">Eoner on a crusade</a></h6>
-                                    <div class="text">AUGUST 09, 2018</div>
-                                </div>
-                                <div class="single-post">
-                                        <div class="img-box"><a href="post1.php"><figure><img src="images\home\p4.jpeg" alt=""></figure></a></div>
-                                        <h6><a href="post1.php">Aboard were expecting you</a></h6>
-                                        <div class="text">SEPTEMBER 10, 2018</div>
-                                    </div>
-                                    <div class="single-post">
-                                        <div class="img-box"><a href="post1.php"><figure><img src="images\home\p5.jpeg" alt=""></figure></a></div>
-                                        <h6><a href="post1.php">Our dreams come true</a></h6>
-                                        <div class="text">OCTOBER 09, 2018</div>
-                                </div>
-                            </div>
-                            <div class="sidebar-newsletter centred">
-                                <div class="title"><i class="fa fa-envelope-o"></i>&nbsp;&nbsp;NEWSLETTER</div>
-                                <div class="text">These days are all share them wit us</div>
-                                <form action="#" method="post">
-                                    <div class="form-group">
-                                        <input type="email" name="email" placeholder="Your Email Address" required="">
-                                        <button type="submit" class="btn-one">SUBSCRIBE</button>
-                                    </div>
-                                </form>
-                            </div>
-                            <div class="sidebar-categories">
-                                <div class="sidebar-title">CATEGORIES</div>
-                                <ul class="categories-list"> 
-                                    <li><a href="#">Music<span>(19)</span></a></li>
-                                    <li><a href="#">Fashion<span>(30)</span></a></li>
-                                    <li><a href="#">Travel<span>(28)</span></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                </div>
+				<?php include "includes/side-bar.php" ;?>
+                
             </div>
         </div>
+		
     </section>
     <!-- blog side end --> 
     <?php include "includes/footer.php"?>

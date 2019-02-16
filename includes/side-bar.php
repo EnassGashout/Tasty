@@ -2,7 +2,7 @@
                     <div class="sidebar-content">
                         <div class="sidebar-about centred">
                             <div class="sidebar-title">ABOUT THE BLOG </div>
-                            <figure class="img-box"><img src="images\logo\tasty2.jpg" alt=""></figure>
+                            <figure class="img-box"><img src="images\logo\t2.jpg" alt=""></figure>
                             <div class="name"><a href="about.php">Tasty</a></div>
                             <div class="text"><p>TASTY
 is a food blog where people from all over the world can offer cooking tips and spread their food. They can also write about street food, a restaurant and a coffee shop
@@ -28,7 +28,7 @@ Through their experiences..</p></div>
                                         $results = $query->fetchAll();
                                         foreach($results as $result) { ?>
                                             <div class="single-post">
-                                            <div class="img-box"><a href="post1.php?id=<?php echo $result['ID']; ?>"><figure><img src="images\home\icon1.jpg" alt=""></figure></a></div>
+                                            <div class="img-box"><a href="post1.php?id=<?php echo $result['ID']; ?>"><figure><img src="images\home\t1.jpg" alt=""></figure></a></div>
                                             <h6><a href="post1.php/blogId=<?php echo $result['ID']; ?>"> <?php
                                                         $title = ""; 
                                                             if(strlen($result['blogTitle']) > 27) {
