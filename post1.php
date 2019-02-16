@@ -29,7 +29,7 @@
             <div class="row">
                 <div class="col-md-9 col-sm-12 col-xs-12 content-side">
                     <div class="blog-details-content">
-                        <figure><img src="images\news\1.jpeg" alt=""></figure>
+                        <figure><img src="images\blog\defult.jpg" alt=""></figure>
                         <div class="blog-content-one sp-three">
                             <div class="top-content centred">
                                 <div class="meta-text">Travel</div>
