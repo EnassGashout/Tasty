@@ -113,7 +113,7 @@ include 'includes/connect.php';
     ?>
 
     <section class="contact-section sp-eight">
-    <figure class="img-box"><img src="images\blog\defult.jpg" alt=""></figure>
+    <figure class="img-box"><img src="images\home\jh.jpeg" alt=""></figure>
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12 content-side">

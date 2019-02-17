@@ -21,7 +21,7 @@
     <!-- main slider two -->
     <section class="slider-style-two" style="margin-bottom: 50px">
         <div class="container">
-                <div class="img-box"><figure><img src="images\home\image1.jpg" alt=""></figure></div>
+                <div class="img-box"><figure><img src="images\home\pp.jpg" alt=""></figure></div>
             <div class="slider-content">
                 <div class="blog-content-one" style="border: #f3a28b solid 3px ;" >
                     <div class="top-content centred" >
