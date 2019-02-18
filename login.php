@@ -48,7 +48,7 @@
 
 	<body>
 
-		<div class="wrapper" style="background-image: url('images/teg1.png');">
+		<div class="wrapper" style="background-image: url('images/home/36.png');">
 			<div class="inner">
 
 				<form action="login.php" method="post">
